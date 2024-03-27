@@ -1,0 +1,20 @@
+# Памятка PHP
+* [ ] Функционал может работает паралельно.
+* [ ] Перед решением проблемы - нужно фактами доказать происхождение проблемы
+* [ ] Подумать как можно решить задачу иначе. Например на стороне mysql.
+* [ ] Copy on Write для функции и foreach.
+* [ ] Генератор как итератор массива.
+* [ ] Reflection API
+* [ ] Standard PHP Library
+* [ ] Массив с ключами в виде целых чисел по порядку кушает меньше оперативы.
+* [ ] OPcache
+* [ ] PSR
+* [ ] XDebug
+* [ ] [GRASP паттерны проектирования](https://habr.com/ru/articles/92570/)
+* [ ] [Паттерны банды 4х](https://refactoring.guru/ru/design-patterns/catalog)
+* [ ] [SOLID](https://medium.com/webbdev/solid-4ffc018077da)
+    * Single Responsibility Principle
+    * Open-Closed Principle
+    * Liskov Substitution Principle. (Необходимо, чтобы подклассы могли бы служить заменой для своих суперклассов)
+    * Interface Segregation Principle. (Не создавать божественных интерфейсов)
+    * Dependency Inversion Principle. (Объектом зависимости должна быть абстракция, а не конкретная реализация.)
